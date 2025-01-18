@@ -39,7 +39,7 @@ app.use('/api/contact', limiter);
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 's4cfrontline@gmail.com',
+    user: 'pquinones@gmail.com',
     pass: process.env.EMAIL_PASSWORD // Set this in .env file
   }
 });
