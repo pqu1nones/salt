@@ -15,17 +15,15 @@ import {
 const websites = [
   {
     title: 'Soldiers For Christ',
-    description:
-      'A welcoming congregation focused on Biblical teaching and community outreach',
+    description: 'A welcoming congregation focused on Biblical teaching and community outreach',
     image: './src/images/rose.jpg',
     url: 'https://s4ctroops.com',
   },
   {
-    title: 'Living Waters Ministry',
-    description:
-      'Empowering youth through faith-based education and mentorship',
+    title: 'Our Current Reality',
+    description: 'Empowering youth through faith-based education and mentorship',
     image: './src/images/rose.jpg0',
-    url: '#',
+    url: 'https://ourcurrentreality.com',
   },
   {
     title: 'Hope & Healing Center',
