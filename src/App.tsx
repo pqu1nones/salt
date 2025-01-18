@@ -17,103 +17,90 @@ const websites = [
     title: 'Soldiers For Christ',
     description:
       'A welcoming congregation focused on Biblical teaching and community outreach',
-    image: 'images/rose.jpg',
+    image: './src/images/rose.jpg',
     url: 'https://s4ctroops.com',
   },
   {
     title: 'Living Waters Ministry',
     description:
       'Empowering youth through faith-based education and mentorship',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg0',
     url: '#',
   },
   {
     title: 'Hope & Healing Center',
     description: 'Faith-based counseling and support services for families',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'New Life Fellowship',
     description: 'Building bridges between faith and everyday life',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Kingdom Kids Academy',
     description:
       'Christian education nurturing both faith and academic excellence',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Faithful Foundations',
     description:
       'Supporting families through Christ-centered marriage and parenting resources',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Harvest Food Ministry',
     description:
       'Serving the community through food assistance and spiritual support',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Veterans Faith Alliance',
     description:
       'Supporting veterans through faith-based community and resources',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Sacred Arts Studio',
     description: 'Expressing faith through visual arts and creativity',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Lighthouse Recovery',
     description: 'Christ-centered addiction recovery and support services',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Faith & Fitness',
     description: 'Wellness program combining physical and spiritual health',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Global Missions Network',
     description: 'Connecting local churches with global mission opportunities',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Digital Disciples',
     description: 'Leveraging technology for modern ministry and outreach',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
   {
     title: 'Prayer Warriors United',
     description: '24/7 prayer ministry supporting global prayer requests',
-    image:
-      'https://images.unsplash.com/photo-1494972308805-463bc619d34e?auto=format&fit=crop&q=80',
+    image: './src/images/rose.jpg',
     url: '#',
   },
 ];
