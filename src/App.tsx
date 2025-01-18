@@ -14,7 +14,7 @@ import {
 // Website showcase data
 const websites = [
   {
-    title: 'Soldiers For Christ',
+    title: 'Soldiers 4 Christ',
     description: 'A welcoming congregation focused on Biblical teaching and community outreach',
     image: './src/images/rose.jpg',
     url: 'https://s4ctroops.com',
